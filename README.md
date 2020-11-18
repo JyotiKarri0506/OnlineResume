@@ -1,0 +1,2 @@
+# OnlineResume
+I built online Resume from scratch using HTML5,CSS by  Breaking down the resume design into small UI elements. Separated structure from styles. Markedup the content of the webpage using semantic HTML tags. Added styles (shadows, spacing, colours, backgrounds) to my page. inserted hover tag in order to highlight links Built the two column grid to layout the various sections on the resume.ume.
